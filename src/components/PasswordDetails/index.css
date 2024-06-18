@@ -1,0 +1,127 @@
+.main {
+  background-color: #9ba9eb;
+  min-height: 100vh;
+  padding: 20px;
+}
+.logo-image {
+  width: 150px;
+  margin-bottom: 15px;
+}
+.logo-image-2 {
+  width: 200px;
+  margin-bottom: 10px;
+}
+.main-1 {
+  background-color: #5763a5;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main-2 {
+  padding: 10px;
+  background-color: #454f84;
+  width: 90%;
+  border-radius: 10px;
+}
+.main-heading {
+  font-size: 18px;
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #ffffff;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+.logoImage {
+  width: 20px;
+  padding-right: 5px;
+}
+.inputEle {
+  border-left-style: solid;
+  border-style: none;
+  padding: 5px;
+  outline: none;
+}
+.image-container {
+  border-right: 1px solid #c3caea;
+}
+.button1 {
+  background-color: #0b69ff;
+  border-style: none;
+  padding: 5px;
+  width: 80px;
+  color: #f8fafc;
+  align-self: flex-end;
+}
+.main-3 {
+  padding: 10px;
+  background-color: #454f84;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+.main-3-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.main-3-heading {
+  font-size: 15px;
+  color: #ffffff;
+}
+.main-hr {
+  background-color: #b6c3ca;
+}
+.form-element {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.main-3-sub {
+  display: flex;
+  align-items: center;
+}
+.main-para-3 {
+  margin-left: 10px;
+  background-color: transparent;
+  border: 1px solid #b6c3ca;
+  border-radius: 10px;
+  padding: 3px;
+  color: #ffffff;
+}
+.main-3-width {
+  width: 40%;
+}
+.checkboxEle {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'roboto';
+}
+.list {
+  list-style: none;
+  margin: 10px;
+  margin-left: -30px;
+}
+.no-passwords-image {
+  width: 280px;
+}
+.no-passwords-title {
+  font-size: 18px;
+  text-align: center;
+  color: #f8fafc;
+  font-weight: 500;
+  margin-top: 15px;
+}
+.no-password-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
